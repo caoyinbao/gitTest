@@ -1,6 +1,8 @@
 public class GitTest001 {
     public static void main(String[] args) {
-        System.out.println("111");
-        System.out.println("222");
+        sop("12345");
+    }
+    public static void sop(String str){
+        System.out.println(str);
     }
 }
