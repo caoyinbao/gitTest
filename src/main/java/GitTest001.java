@@ -10,8 +10,6 @@ public class GitTest001 {
         int[] arr = {1,2,3,4,5};
         for(int a : arr){
             System.out.println(a);
-            System.out.println(a);
-            System.out.println(a);
         }
     }
 }
